@@ -9,6 +9,6 @@ public class Test{
 
 		tree.getRoot().getLeft().setLeft(new Node(4));
 
-		System.out.println(tree.getRoot().getData() + " " +  tree.getRoot().getLeft().getData() + " " + tree.getRoot().getRight().getData());
+		//System.out.println(tree.getRoot().getData() + " " +  tree.getRoot().getLeft().getData() + " " + tree.getRoot().getRight().getData());
 	}
 }
